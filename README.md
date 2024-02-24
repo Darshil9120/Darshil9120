@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Darshil9120
-- 👀 I’m interested in Quantum Computing,Biological Application of Computing.
-- 🌱 I’m currently learning Quantum via Qiskit and online Courses.
-- 💞️ I’m looking to collaborate on quantum related projects
+- 👀 I’m interested in Systems Programming, Networking and Security.
+- 🌱 I’m currently pursuing my master's in Information Security at Carnegie Mellon University.
+- 💞️ I’m looking to collaborate on related projects.
 - 📫 
 
 <!---
